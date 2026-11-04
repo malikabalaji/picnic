@@ -1,0 +1,10 @@
+{
+  "name": "Picnic",
+  "short_name": "Picnic",
+  "description": "Your face. Your photos. Automatically.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F7F8",
+  "theme_color": "#F7F7F8",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
